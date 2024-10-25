@@ -1,5 +1,5 @@
-# DGB
-DGB | Developer GigaChat Bot
+# DGB #
+### DGB | Developer GigaChat Bot ###
 About
 DGB (Developer GigaChat Bot) We are a team of professionals specializing in creating bots for Telegram using cutting-edge technologies like GigaChat AI.
 
